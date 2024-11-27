@@ -1,6 +1,6 @@
 # Machine Learning Project: Sales Prediction
 
-Welcome to the repository for my **Machine Learning Project**, focused on predicting sales using advanced data processing and modeling techniques. This project combines data integration, feature engineering, and analysis to develop a robust predictive model.
+Welcome to the repository for our **Machine Learning Project**, focused on predicting sales using advanced data processing and modeling techniques. This project combines data integration, feature engineering, and analysis to develop a robust predictive model.
 
 ---
 
